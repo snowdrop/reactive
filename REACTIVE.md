@@ -142,6 +142,7 @@ A reactive pom's file contains such additional GAVs
 - Introduction to [Reactive's programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - https://www.infoq.com/articles/reactor-by-example
 - https://spring.io/guides/gs/reactive-rest-service/
+- Huge collection of [Reactive examples](https://github.com/hantsy/spring-reactive-sample)
 
 ## Technology
 
