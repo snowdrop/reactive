@@ -1,6 +1,6 @@
-package me.snowdrop.reactiveweb;
+package me.snowdrop.reactive;
 
-import me.snowdrop.reactiveweb.domain.Product;
+import me.snowdrop.reactive.domain.Product;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.client.reactive.ReactorClientHttpConnector;
 import org.springframework.web.reactive.function.BodyInserters;

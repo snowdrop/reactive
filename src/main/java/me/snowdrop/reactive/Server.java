@@ -1,9 +1,9 @@
-package me.snowdrop.reactiveweb;
+package me.snowdrop.reactive;
 
-import me.snowdrop.reactiveweb.handlers.ProductHandler;
-import me.snowdrop.reactiveweb.handlers.ProductHandlerImpl;
-import me.snowdrop.reactiveweb.repositories.ProductImplRepository;
-import me.snowdrop.reactiveweb.repositories.ProductRepository;
+import me.snowdrop.reactive.handlers.ProductHandler;
+import me.snowdrop.reactive.handlers.ProductHandlerImpl;
+import me.snowdrop.reactive.repositories.ProductImplRepository;
+import me.snowdrop.reactive.repositories.ProductRepository;
 
 import org.apache.catalina.Context;
 import org.apache.catalina.LifecycleException;

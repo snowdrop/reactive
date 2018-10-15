@@ -1,4 +1,4 @@
-package me.snowdrop.reactiveweb.domain;
+package me.snowdrop.reactive.domain;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

@@ -1,6 +1,6 @@
-package me.snowdrop.reactiveweb.handlers;
-import me.snowdrop.reactiveweb.domain.Product;
-import me.snowdrop.reactiveweb.repositories.ProductRepository;
+package me.snowdrop.reactive.handlers;
+import me.snowdrop.reactive.domain.Product;
+import me.snowdrop.reactive.repositories.ProductRepository;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 import org.springframework.web.reactive.function.server.ServerRequest;

@@ -1,4 +1,4 @@
-package me.snowdrop.reactiveweb;
+package me.snowdrop.reactive;
 
 import java.util.Arrays;
 import java.util.Iterator;

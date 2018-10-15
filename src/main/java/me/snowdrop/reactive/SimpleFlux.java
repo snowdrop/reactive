@@ -1,4 +1,4 @@
-package me.snowdrop.reactiveweb;
+package me.snowdrop.reactive;
 
 import reactor.core.publisher.Flux;
 

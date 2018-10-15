@@ -1,6 +1,6 @@
-package me.snowdrop.reactiveweb.repositories;
+package me.snowdrop.reactive.repositories;
 
-import me.snowdrop.reactiveweb.domain.Product;
+import me.snowdrop.reactive.domain.Product;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 

@@ -1,4 +1,4 @@
-package me.snowdrop.reactiveweb.handlers;
+package me.snowdrop.reactive.handlers;
 
 import org.springframework.web.reactive.function.server.ServerRequest;
 import org.springframework.web.reactive.function.server.ServerResponse;
