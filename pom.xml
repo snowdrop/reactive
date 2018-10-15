@@ -35,7 +35,7 @@
 			<artifactId>lombok</artifactId>
 		</dependency>
 
-		<!-- -->
+		<!-- Tomcat9 can be added or not with Reactive App !! -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
